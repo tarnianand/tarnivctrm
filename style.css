@@ -1,0 +1,9 @@
+body {
+  background-color: rgb(152, 197, 206);
+  min-height: 100vh;
+}
+p{ 
+  font-family: "Monaco" ;
+  color: blueviolet;
+  font-size: 30px;
+}
