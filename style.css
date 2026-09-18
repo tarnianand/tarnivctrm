@@ -6,6 +6,7 @@ p{
   font-family: "Monaco" ;
   color: blueviolet;
   font-size: 30px;
+  text-shadow: 4px 4px 6px whitesmoke  ;
 }
 marquee {
   font-size: 70px;
