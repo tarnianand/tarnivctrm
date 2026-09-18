@@ -11,7 +11,7 @@ p{
 }
 marquee {
   font-size: 70px;
-color: rgb(73, 35, 5);}
+color: rgb(0, 27, 81);}
 marquee:hover {text-transform:uppercase ;}
 marquee: active {text-transform:lowercase ;}
 }
